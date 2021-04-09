@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pharmacy",
+    "\\pharmacy\\.env",
+    "\\pharmacy\\src",
+    "\\pharmacy\\src\\static",
+    "\\pharmacy\\src\\static\\local",
+    "\\pharmacy\\src\\static\\local\\css"
+  ],
+  "SelectedNode": "\\pharmacy\\src\\static\\local\\css\\main.css",
+  "PreviewInSolutionExplorer": false
+}
